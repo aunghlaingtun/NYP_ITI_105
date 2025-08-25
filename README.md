@@ -30,19 +30,17 @@ Tech Stack
 - Google Colab + Drive
 
   
-### Project Structure
-
-ml-hdb-resale/ ├── data/ # Raw and processed CSV files ├── notebooks/ # Colab notebooks (.ipynb) ├── src/ # Training scripts and MLflow logging ├── models/ # Saved models and artifacts ├── dashboards/ # Comparison plots and radar charts ├── README.txt  # Project overview └── requirements.txt  # Dependencies
 
 ### Project Structure
 -----------------
-ml-hdb-resale/
-├── data/                  # Raw and processed CSV files
-├── notebooks/             # Colab notebooks (.ipynb)
-├── src/                   # Training scripts and MLflow logging
-├── models/                # Saved models and artifacts
-├── dashboards/            # Comparison plots and radar charts
-├── README.txt             # Project overview
+ ml-hdb-resale/
+ 
+├── data/                  # Raw and processed CSV files\
+├── notebooks/             # Colab notebooks (.ipynb)\
+├── src/                   # Training scripts and MLflow logging\
+├── models/                # Saved models and artifacts\
+├── dashboards/            # Comparison plots and radar charts\
+├── README.txt             # Project overview\
 └── requirements.txt       # Dependencies
 
 Setup Instructions
