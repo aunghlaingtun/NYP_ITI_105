@@ -1,9 +1,9 @@
 HDB Resale Price Prediction – Enhanced MLflow Workflow
 =======================================================
 
-Author: Aung Hlaing Tun
-Student ID: 6319250G
-Course Title: NYP ITI105 Machine Learning Project
+Author: Aung Hlaing Tun\
+Student ID: 6319250G\
+Course Title: NYP ITI105 Machine Learning Project\
 Date: 25 August 2025
 
 Project Overview
