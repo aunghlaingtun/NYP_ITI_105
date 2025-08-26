@@ -82,4 +82,13 @@ MIT License. Free to use, adapt, and contribute.
 
 Acknowledgments
 ---------------
-This project was developed as part of NYP ITI105 coursework. Special thanks to the teaching team and MLflow community for guidance and tools.
+Acknowledgments
+---------------
+This project was developed as part of the NYP ITI105 Machine Learning coursework.
+
+Special thanks to:
+- My team members: Bearnned and Lester Chua, for their collaboration and support throughout the project.
+- Dr. Leong, our module coach, for his guidance and encouragement.
+- Mr. Ng Steven, for his valuable advice and mentorship during the development process.
+- The MLflow community, for providing robust tools and documentation that made reproducible workflows possible.
+- The NYP teaching team, for fostering a learning environment that encourages exploration and clarity.
