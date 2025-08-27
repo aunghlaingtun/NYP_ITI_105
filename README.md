@@ -84,11 +84,13 @@ Acknowledgments
 ---------------
 Acknowledgments
 ---------------
-This project was developed as part of the NYP ITI105 Machine Learning coursework.
+## Acknowledgments
 
 Special thanks to:
-- My team members: Bearnned and Lester Chua, for their collaboration and support throughout the project.
-- Dr. Leong, our module coach, for his guidance and encouragement.
-- Mr. Ng Steven, for his valuable advice and mentorship during the development process.
-- The MLflow community, for providing robust tools and documentation that made reproducible workflows possible.
-- The NYP teaching team, for fostering a learning environment that encourages exploration and clarity.
+
+- The project team for their collaboration and support throughout development.  
+- The module coach for guidance and encouragement.  
+- Mentors who provided valuable advice during the process.  
+- The MLflow community for offering robust tools and documentation that enabled reproducible workflows.  
+- The teaching staff for fostering a learning environment that encourages exploration and clarity.
+
